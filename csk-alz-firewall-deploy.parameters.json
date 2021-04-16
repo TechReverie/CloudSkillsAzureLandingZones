@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "firewall-name": {
+            "value": "csk-hub-p-eus2-net-hubfw-fw"
+        },
+        "firewallPublicIPName": {
+            "value": "csk-hub-p-eus2-net-hubfwip-pubip"
+        }
+    }
+}
